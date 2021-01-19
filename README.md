@@ -1,5 +1,10 @@
 # LeetCode Solutions
-서울시립대 알고리즘 소모임 AL林의 릿코드 풀이 저장소입니다.
+![](https://img.shields.io/badge/>-LeetCode-orange.svg)
+![](https://img.shields.io/badge/language-C++-blue.svg)
+![](https://img.shields.io/badge/language-Python-green.svg)
+![](https://img.shields.io/badge/language-Java-red.svg)
+
+서울시립대 알고리즘 소모임 AL林의 [LeetCode](https://leetcode.com/) 풀이 저장소입니다.
 
 
 
