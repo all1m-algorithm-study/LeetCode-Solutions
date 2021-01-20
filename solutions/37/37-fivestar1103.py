@@ -18,12 +18,10 @@ class Solution:
 
         # backtracking
         flag = [False]
-
         def solve(idx):
             if flag[0]:
                 # exit if flag is True
                 import sys
-
                 sys.exit()
             row, col, box = empty[idx][0], empty[idx][1], empty[idx][2]
             for i in range(1, 10):
