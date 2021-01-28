@@ -52,6 +52,7 @@
 | 454  |       [4Sum II](https://leetcode.com/problems/4sum-ii)       |            [Python](solutions/454/454-mulmuri.py)            |    [md](solutions/454/454-mulmuri.md)    |   Medium   |      |
 | 538  |       [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)       |            [Python](solutions/538/538-kir3i.py)            |    [md](solutions/538/538-kir3i.md)    |   Medium   |      |
 | 547  | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) |          [Python](solutions/547/547-yongjoonseo.py)          |  [md](solutions/547/547-yongjoonseo.md)  |   Medium   |      |
+| 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |          [Python](solutions/559/559-yongjoonseo.py)          |  [md](solutions/559/559-yongjoonseo.md)  |   Easy   |      |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) |            [C++](solutions/739/739-gusrb3164.cpp)            |                                          |   Medium   |      |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) |            [C++](solutions/771/771-gusrb3164.cpp)            |                                          |    Easy    |      |
 | 807  | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) |             [Python](solutions/807/807-kir3i.py)             |     [md](solutions/807/807-kir3i.md)     |   Medium   |      |
