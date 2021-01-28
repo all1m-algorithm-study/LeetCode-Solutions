@@ -20,7 +20,7 @@
 |  #   |                            Title                             |                          Solutions                           |                 Analyses                 | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------: | :--------: | :--: |
 |  1   |       [Two Sum](https://leetcode.com/problems/two-sum)       | [C++](solutions/1/1.cpp), [Python](solutions/1/1-fivestar1103.py), [Python](solutions/1/1.py) |          [md](solutions/1/1.md)          |    Easy    |      |
-|  2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |              [C++](solutions/2/2-gusrb3164.cpp)              |                                          |   Medium   |      |
+|  2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |              [C++](solutions/2/2-gusrb3164.cpp), [Java](solutions/2/2-moran991231.java)              |                                          |   Medium   |      |
 |  3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](solutions/3/3-gusrb3164.cpp), [C++](solutions/3/3.cpp) |          [md](solutions/3/3.md)          |   Medium   |      |
 |  4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C++](solutions/4/4-gusrb3164.cpp), [C++](solutions/4/4.cpp) |                                          |    Hard    |      |
 |  7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer) |                  [Python](solutions/7/7.py)                  |                                          |    Easy    |      |
