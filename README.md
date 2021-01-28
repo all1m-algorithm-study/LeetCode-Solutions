@@ -36,6 +36,7 @@
 |  51  |      [N-Queens](https://leetcode.com/problems/n-queens)      |          [Python](solutions/51/51-fivestar1103.py)           |                                          |    Hard    |      |
 |  52  |   [N-Queens II](https://leetcode.com/problems/n-queens-ii)   |          [Python](solutions/52/52-fivestar1103.py)           |                                          |    Hard    |      |
 |  60  | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |             [C](solutions/60/60-fivestar1103.c)              |                                          |    Hard    |      |
+|  84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |             [Python](solutions/84/84-fivestar1103.py)              |                                          |    Hard    |      |
 |  92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) |             [C++](solutions/92/92-gusrb3164.cpp)             |                                          |   Medium   |      |
 | 172  | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) |                [Python](solutions/172/172.py)                |                                          |    Easy    |      |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [C++](solutions/200/200-gusrb3164.cpp), [Python](solutions/200/200-yongjoonseo.py) |  [md](solutions/200/200-yongjoonseo.md)  |   Medium   |      |
