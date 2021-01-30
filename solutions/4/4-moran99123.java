@@ -1,5 +1,4 @@
-package p4;
-
+// 정답 제출은 됐는데 왜 정답인지 모르겠음
 class Solution {
 
 	public int search(int[] arr, int s1, int e1, int val) {
