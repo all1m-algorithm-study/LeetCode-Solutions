@@ -1,4 +1,5 @@
 // 정답 제출은 됐는데 왜 정답인지 모르겠음
+// 더 좋은 솔루션: https://www.youtube.com/watch?v=q6IEA26hvXc&feature=emb_logo
 class Solution {
 
 	public int search(int[] arr, int s1, int e1, int val) {
