@@ -1,6 +1,3 @@
-package p3;
-
-
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int max=0;
@@ -12,8 +9,7 @@ class Solution {
         while(pr<s_len) {
         	ch= s.charAt(pr);
         	if(exist[ch]<=pl) { // ch dosesn't exist in sub_s
-        		exist[ch]=pr+1;
-        		pr++;
+        		exist[ch]=++pr;
         	}else { // ch exists in sub_s
         		len = pr-pl;
         		max = (max>len)?max:len;
@@ -21,11 +17,8 @@ class Solution {
         		exist[ch]=++pr;
         	}
         }
-        
-        
-        
-        
-        return max;
-    	
+        len = pr-pl; //calculate sub_s length which is located at the end of s
+        max=(max>len)?max:len;
+        return max;    	
     }
 }
