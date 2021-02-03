@@ -18,7 +18,7 @@ class Table_maker:
             row = []
             Analysis = []
             Solution = []
-            for file in os.listdir(self.path_from + "\\" + problem):
+            for file in os.listdir(os.path.join(self.path_from, problem)):
                 if file[-2:] == ".c":
                     Solution.append(f'[C](solutions/{problem}/{file})')
                 elif file[-4:] == ".cpp":
