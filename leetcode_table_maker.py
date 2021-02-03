@@ -18,14 +18,16 @@ class Table_maker:
             row = []
             Analysis = []
             Solution = []
-            for file in os.listdir(self.path_from + "\\" + problem):
-                if file[-3:] == "cpp":
+            for file in os.listdir(os.path.join(self.path_from, problem)):
+                if file[-2:] == ".c":
+                    Solution.append(f'[C](solutions/{problem}/{file})')
+                elif file[-4:] == ".cpp":
                     Solution.append(f'[C++](solutions/{problem}/{file})')
-                if file[-2:] == "py":
+                elif file[-3:] == ".py":
                     Solution.append(f'[Python](solutions/{problem}/{file})')
-                if file[-4:] == "java":
+                elif file[-5:] == ".java":
                     Solution.append(f'[Java](solutions/{problem}/{file})')
-                if file[-2:] == "md":
+                elif file[-3:] == ".md":
                     Analysis.append(f'[md](solutions/{problem}/{file})')
 
             Title = self.problems_info[index]['Title']
@@ -35,8 +37,8 @@ class Table_maker:
 
             row.append("| " + problem)
             row.append(f'[{Title}]({link})')
-            row.append(', '.join(Solution))
-            row.append(', '.join(Analysis))
+            row.append(', '.join(sorted(Solution)))
+            row.append(', '.join(sorted(Analysis)))
             row.append(Difficulty)
             row.append(Note)
 
@@ -52,12 +54,16 @@ if __name__ == "__main__":
 
     print("## Algorithms")
     print(*Algorithms_table, sep='\n')
+    print()
 
     print("## Database")
     print(*Database_table, sep='\n')
+    print()
 
     print("## Shell")
     print(*Shell_table, sep='\n')
+    print()
 
     print("## Concurrency")
     print(*Concurrency_table, sep='\n')
+    print()
