@@ -1,4 +1,4 @@
-import os, datetime, pickle
+import os, datetime, pickle, pytz
 from collections import defaultdict
 
 class point_calculator:
@@ -40,9 +40,15 @@ class point_calculator:
             dic[committer].add(time.split()[0])
         participants = list(dic.keys())
         participants.sort(key=lambda x: len(dic[x]), reverse=True)
-        print("[event1] 가장 꾸준히 기여한 사람")
-        for participant in participants:
-            print(participant, ":", len(dic[participant]), "points")
+
+        contents = []
+        contents.append("### (Event 1) 가장 꾸준히 기여한 사람")
+        contents.append("| # | User Name | Points |")
+        contents.append("| :---: | :---: | :---: |")
+        for i, participant in enumerate(participants, 1):
+            contents.append(f"| {i} | {participant} | {len(dic[participant])} |")
+
+        return "\n".join(contents)
 
     def event2(self):
         dic = defaultdict(int)
@@ -58,9 +64,15 @@ class point_calculator:
                 dic[committer] += 1
         participants = list(dic.keys())
         participants.sort(key=lambda x: dic[x], reverse=True)
-        print("[event2] 모든 난이도에 가장 많이 기여한 사람")
-        for participant in participants:
-            print(participant, ":", dic[participant], "points")
+
+        contents = []
+        contents.append("### (Event 2) 모든 난이도에 가장 많이 기여한 사람")
+        contents.append("| # | User Name | Points |")
+        contents.append("| :---: | :---: | :---: |")
+        for i, participant in enumerate(participants, 1):
+            contents.append(f"| {i} | {participant} | {dic[participant]} |")
+        
+        return "\n".join(contents)
 
     def event3(self):
         dic = defaultdict(int)
@@ -78,17 +90,35 @@ class point_calculator:
                 dic[committer] += 1
         participants = list(dic.keys())
         participants.sort(key=lambda x: dic[x], reverse=True)
-        print("[event3] Medium, Hard 난이도에 가장 많이 기여한 사람")
-        for participant in participants:
-            print(participant, ":", dic[participant], "points")
+
+        contents = []
+        contents.append("### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람")
+        contents.append("| # | User Name | Points |")
+        contents.append("| :---: | :---: | :---: |")
+        for i, participant in enumerate(participants, 1):
+            contents.append(f"| {i} | {participant} | {dic[participant]} |")
+        
+        return "\n".join(contents)
 
 
-if __name__ == "__main__":
+def get_current_time():
+    date_format = "**%Y년 %m월 %d일 %H시 %M분**"
+    now = datetime.datetime.now(pytz.timezone("Asia/Seoul"))
+    return now.strftime(date_format)
+
+def get_contents():
     calculator = point_calculator()
     calculator.parse_git_log()
 
-    calculator.event1()
-    print()
-    calculator.event2()
-    print()
-    calculator.event3()
+    contents = []
+    contents.append("## Ranking")
+    contents.append(f"{get_current_time()}에 마지막으로 업데이트된 순위입니다.\n")
+
+    contents.append(calculator.event1() + "\n")
+    contents.append(calculator.event2() + "\n")
+    contents.append(calculator.event3())
+
+    return "\n".join(contents)
+
+if __name__ == "__main__":
+    print(get_contents())

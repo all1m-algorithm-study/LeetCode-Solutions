@@ -15,6 +15,49 @@
 [2021.01.18.(월) ~ 2021.02.21.(일)에 기여를 많이하면 상품을 드립니다.](https://www.notion.so/AL-LeetCode-8abcfca9056e472cb65316683b15bc34)
 
 
+## Ranking
+**2021년 02월 04일 19시 18분**에 마지막으로 업데이트된 순위입니다.
+
+### (Event 1) 가장 꾸준히 기여한 사람
+| # | User Name | Points |
+| :---: | :---: | :---: |
+| 1 | kir3i | 13 |
+| 2 | hyun gyu | 12 |
+| 3 | fivestar1103 | 8 |
+| 4 | YongjoonSeo | 4 |
+| 5 | Spoof-UoS | 3 |
+| 6 | Moonki Choi | 2 |
+| 7 | sally0226 | 2 |
+| 8 | mulmuri | 2 |
+| 9 | moran991231 | 2 |
+| 10 | zeze1004 | 1 |
+
+### (Event 2) 모든 난이도에 가장 많이 기여한 사람
+| # | User Name | Points |
+| :---: | :---: | :---: |
+| 1 | kir3i | 42 |
+| 2 | hyun gyu | 17 |
+| 3 | YongjoonSeo | 13 |
+| 4 | Spoof-UoS | 9 |
+| 5 | fivestar1103 | 7 |
+| 6 | Moonki Choi | 4 |
+| 7 | sally0226 | 4 |
+| 8 | mulmuri | 3 |
+| 9 | zeze1004 | 3 |
+| 10 | moran991231 | 2 |
+
+### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
+| # | User Name | Points |
+| :---: | :---: | :---: |
+| 1 | kir3i | 32 |
+| 2 | hyun gyu | 14 |
+| 3 | fivestar1103 | 7 |
+| 4 | sally0226 | 4 |
+| 5 | YongjoonSeo | 4 |
+| 6 | mulmuri | 2 |
+| 7 | moran991231 | 2 |
+| 8 | Spoof-UoS | 1 |
+
 
 ## Algorithms
 | # | Title | Solutions | Analyses | Difficulty | Note |
@@ -81,9 +124,18 @@
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [Python](solutions/1689/1689-kir3i.py) | [md](solutions/1689/1689-kir3i.md) | Medium |  |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | [Python](solutions/1725/1725-yongjoonseo.py) | [md](solutions/1725/1725-yongjoonseo.md) | Easy |  |
 
+
 ## Database
+| # | Title | Solutions | Analyses | Difficulty | Note |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
 
 ## Shell
+| # | Title | Solutions | Analyses | Difficulty | Note |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
 
 ## Concurrency
+| # | Title | Solutions | Analyses | Difficulty | Note |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 

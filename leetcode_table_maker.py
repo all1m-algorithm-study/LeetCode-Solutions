@@ -45,25 +45,31 @@ class Table_maker:
             table.append(' | '.join(row))
         return table
 
-if __name__ == "__main__":
+def get_contents():
     maker = Table_maker()
     Algorithms_table = maker.make_table("Algorithms")
     Database_table = maker.make_table("Database")
     Shell_table = maker.make_table("Shell")
     Concurrency_table = maker.make_table("Concurrency")
 
-    print("## Algorithms")
-    print(*Algorithms_table, sep='\n')
-    print()
+    contents = []
+    contents.append("## Algorithms")
+    contents.extend(Algorithms_table)
+    contents.append("\n")
 
-    print("## Database")
-    print(*Database_table, sep='\n')
-    print()
+    contents.append("## Database")
+    contents.extend(Database_table)
+    contents.append("\n")
 
-    print("## Shell")
-    print(*Shell_table, sep='\n')
-    print()
+    contents.append("## Shell")
+    contents.extend(Shell_table)
+    contents.append("\n")
 
-    print("## Concurrency")
-    print(*Concurrency_table, sep='\n')
-    print()
+    contents.append("## Concurrency")
+    contents.extend(Concurrency_table)
+    contents.append("\n")
+
+    return "\n".join(contents)
+
+if __name__ == "__main__":
+    print(get_contents())
