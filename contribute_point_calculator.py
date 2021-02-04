@@ -8,7 +8,7 @@ class point_calculator:
             self.problems_info = pickle.load(f)
 
     def parse_git_log(self):
-        git_logs = os.popen("git log --pretty=format:\"# %an | %cd\" --name-status --reverse").read()
+        git_logs = os.popen("bash -c 'git fetch --all > /dev/null; git log --pretty=format:\"# %an | %cd\" --name-status --reverse'").read()
         cur_committer = ""
         cur_time = ""
         for log in git_logs.split('\n'):
