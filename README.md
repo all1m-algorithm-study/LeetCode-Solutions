@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 04일 23시 28분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 04일 23시 51분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -42,8 +42,8 @@
 | 5 | fivestar1103 | 7 |
 | 6 | Moonki Choi | 4 |
 | 7 | sally0226 | 4 |
-| 8 | mulmuri | 3 |
-| 9 | moran991231 | 3 |
+| 8 | moran991231 | 4 |
+| 9 | mulmuri | 3 |
 | 10 | zeze1004 | 3 |
 
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
@@ -54,7 +54,7 @@
 | 3 | fivestar1103 | 7 |
 | 4 | sally0226 | 4 |
 | 5 | YongjoonSeo | 4 |
-| 6 | moran991231 | 3 |
+| 6 | moran991231 | 4 |
 | 7 | mulmuri | 2 |
 | 8 | Spoof-UoS | 1 |
 
@@ -65,7 +65,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [C++](solutions/1/1.cpp), [Python](solutions/1/1-fivestar1103.py), [Python](solutions/1/1.py) | [md](solutions/1/1.md) | Easy |  |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](solutions/2/2-gusrb3164.cpp), [Java](solutions/2/2-moran991231.java) |  | Medium |  |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](solutions/3/3-gusrb3164.cpp), [C++](solutions/3/3.cpp), [Java](solutions/3/3-moran991231.java) | [md](solutions/3/3-moran991231.md), [md](solutions/3/3.md) | Medium |  |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](solutions/5/5-moran991231.java) |  | Medium |  |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](solutions/5/5-moran991231.java) | [md](solutions/5/5-moran991231.md) | Medium |  |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](solutions/6/6-sally0226.cpp) | [md](solutions/6/6-sally0226.md) | Medium |  |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](solutions/7/7.py) |  | Easy |  |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Python](solutions/9/9.py) |  | Easy |  |
