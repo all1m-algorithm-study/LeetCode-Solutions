@@ -27,8 +27,8 @@ jobs:
           pip install pytz
 
       - name: Generate README file
-        run: python readme-updater.py
-        
+        run: python ./readme-updater.py
+
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
