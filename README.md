@@ -16,12 +16,12 @@
 
 
 ## Ranking
-**2021년 02월 04일 22시 20분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 04일 22시 25분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 13 |
+| 1 | kir3i | 14 |
 | 2 | hyun gyu | 12 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 4 |
@@ -35,7 +35,7 @@
 ### (Event 2) 모든 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 42 |
+| 1 | kir3i | 45 |
 | 2 | hyun gyu | 17 |
 | 3 | YongjoonSeo | 13 |
 | 4 | Spoof-UoS | 9 |
@@ -49,7 +49,7 @@
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 32 |
+| 1 | kir3i | 35 |
 | 2 | hyun gyu | 14 |
 | 3 | fivestar1103 | 7 |
 | 4 | sally0226 | 4 |
@@ -100,6 +100,7 @@
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python](solutions/559/559-yongjoonseo.py) | [md](solutions/559/559-yongjoonseo.md) | Easy |  |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Python](solutions/654/654-kir3i.py) | [md](solutions/654/654-kir3i.md) | Medium |  |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [C++](solutions/739/739-gusrb3164.cpp) |  | Medium |  |
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [C++](solutions/763/763-kir3i.cpp), [Python](solutions/763/763-kir3i.py) | [md](solutions/763/763-kir3i.md) | Medium |  |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [C++](solutions/771/771-gusrb3164.cpp) |  | Easy |  |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C++](solutions/797/797-kir3i.cpp), [Python](solutions/797/797-kir3i.py) | [md](solutions/797/797-kir3i.md) | Medium |  |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Python](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
