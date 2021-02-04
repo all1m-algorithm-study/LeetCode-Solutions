@@ -16,22 +16,47 @@
 
 
 ## Ranking
-**2021년 02월 04일 20시 05분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 04일 20시 10분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | Jeonghyeon Kim | 1 |
+| 1 | kir3i | 13 |
+| 2 | hyun gyu | 12 |
+| 3 | fivestar1103 | 8 |
+| 4 | YongjoonSeo | 4 |
+| 5 | Spoof-UoS | 3 |
+| 6 | Moonki Choi | 2 |
+| 7 | sally0226 | 2 |
+| 8 | mulmuri | 2 |
+| 9 | moran991231 | 2 |
+| 10 | zeze1004 | 1 |
 
 ### (Event 2) 모든 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | Jeonghyeon Kim | 104 |
+| 1 | kir3i | 42 |
+| 2 | hyun gyu | 17 |
+| 3 | YongjoonSeo | 13 |
+| 4 | Spoof-UoS | 9 |
+| 5 | fivestar1103 | 7 |
+| 6 | Moonki Choi | 4 |
+| 7 | sally0226 | 4 |
+| 8 | mulmuri | 3 |
+| 9 | zeze1004 | 3 |
+| 10 | moran991231 | 2 |
 
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | Jeonghyeon Kim | 66 |
+| 1 | kir3i | 32 |
+| 2 | hyun gyu | 14 |
+| 3 | fivestar1103 | 7 |
+| 4 | sally0226 | 4 |
+| 5 | YongjoonSeo | 4 |
+| 6 | mulmuri | 2 |
+| 7 | moran991231 | 2 |
+| 8 | Spoof-UoS | 1 |
 
 
 ## Algorithms
