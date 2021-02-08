@@ -16,12 +16,12 @@
 
 
 ## Ranking
-**2021년 02월 08일 20시 19분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 08일 20시 27분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 14 |
+| 1 | kir3i | 18 |
 | 2 | hyun gyu | 13 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 5 |
@@ -35,7 +35,7 @@
 ### (Event 2) 모든 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 45 |
+| 1 | kir3i | 57 |
 | 2 | YongjoonSeo | 21 |
 | 3 | hyun gyu | 19 |
 | 4 | Spoof-UoS | 9 |
@@ -49,7 +49,7 @@
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 35 |
+| 1 | kir3i | 47 |
 | 2 | hyun gyu | 16 |
 | 3 | YongjoonSeo | 12 |
 | 4 | fivestar1103 | 7 |
@@ -117,6 +117,7 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Python](solutions/1108/1108-kir3i.py) | [md](solutions/1108/1108-kir3i.md) | Easy |  |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [Python](solutions/1282/1282-kir3i.py) | [md](solutions/1282/1282-kir3i.md) | Medium |  |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [Python](solutions/1302/1302-kir3i.py) | [md](solutions/1302/1302-kir3i.md) | Medium |  |
+| 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [C++](solutions/1305/1305-kir3i.cpp), [Python](solutions/1305/1305-kir3i.py) | [md](solutions/1305/1305-kir3i.md) | Medium |  |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [C++](solutions/1310/1310-gusrb3164.cpp) |  | Medium |  |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [Python](solutions/1315/1315-kir3i.py) | [md](solutions/1315/1315-kir3i.md) | Medium |  |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Python](solutions/1329/1329-kir3i.py) | [md](solutions/1329/1329-kir3i.md) | Medium |  |
@@ -127,6 +128,9 @@
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Python](solutions/1480/1480-kir3i.py) | [md](solutions/1480/1480-kir3i.md) | Easy |  |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Python](solutions/1512/1512-kir3i.py) | [md](solutions/1512/1512-kir3i.md) | Easy |  |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [Python](solutions/1544/1544-yongjoonseo.py) | [md](solutions/1544/1544-yongjoonseo.md) | Easy |  |
+| 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal) | [C++](solutions/1551/1551-kir3i.cpp), [Python](solutions/1551/1551-kir3i.py) | [md](solutions/1551/1551-kir3i.md) | Medium |  |
+| 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get) | [C++](solutions/1561/1561-kir3i.cpp), [Python](solutions/1561/1561-kir3i.py) | [md](solutions/1561/1561-kir3i.md) | Medium |  |
+| 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays) | [C++](solutions/1630/1630-kir3i.cpp), [Python](solutions/1630/1630-kir3i.py) | [md](solutions/1630/1630-kir3i.md) | Medium |  |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [Python](solutions/1637/1637-kir3i.py) | [md](solutions/1637/1637-kir3i.md) | Medium |  |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Python](solutions/1672/1672-kir3i.py) | [md](solutions/1672/1672-kir3i.md) | Easy |  |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [Python](solutions/1689/1689-kir3i.py) | [md](solutions/1689/1689-kir3i.md) | Medium |  |
