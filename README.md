@@ -16,13 +16,13 @@
 
 
 ## Ranking
-**2021년 02월 08일 20시 27분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 08일 20시 34분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 18 |
-| 2 | hyun gyu | 13 |
+| 2 | hyun gyu | 16 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 5 |
 | 5 | Spoof-UoS | 3 |
@@ -36,8 +36,8 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
-| 2 | YongjoonSeo | 21 |
-| 3 | hyun gyu | 19 |
+| 2 | hyun gyu | 24 |
+| 3 | YongjoonSeo | 21 |
 | 4 | Spoof-UoS | 9 |
 | 5 | fivestar1103 | 7 |
 | 6 | Moonki Choi | 4 |
@@ -50,7 +50,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 47 |
-| 2 | hyun gyu | 16 |
+| 2 | hyun gyu | 17 |
 | 3 | YongjoonSeo | 12 |
 | 4 | fivestar1103 | 7 |
 | 5 | sally0226 | 4 |
@@ -84,6 +84,7 @@
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84/84-fivestar1103.py) |  | Hard |  |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [C++](solutions/92/92-gusrb3164.cpp) |  | Medium |  |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Python](solutions/103/103-yongjoonseo.py) | [md](solutions/103/103-yongjoonseo.md) | Medium |  |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](solutions/104/104-gusrb3164.cpp) |  | Easy |  |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [Python](solutions/130/130-yongjoonseo.py) | [md](solutions/130/130-yongjoonseo.md) | Medium |  |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python](solutions/172/172.py) |  | Easy |  |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [C++](solutions/200/200-gusrb3164.cpp), [Python](solutions/200/200-yongjoonseo.py) | [md](solutions/200/200-yongjoonseo.md) | Medium |  |
