@@ -16,13 +16,13 @@
 
 
 ## Ranking
-**2021년 02월 08일 21시 44분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 09일 17시 17분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 18 |
-| 2 | hyun gyu | 17 |
+| 1 | hyun gyu | 18 |
+| 2 | kir3i | 18 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 5 |
 | 5 | Spoof-UoS | 3 |
@@ -36,7 +36,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
-| 2 | hyun gyu | 25 |
+| 2 | hyun gyu | 26 |
 | 3 | YongjoonSeo | 21 |
 | 4 | Spoof-UoS | 9 |
 | 5 | fivestar1103 | 7 |
@@ -50,7 +50,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 47 |
-| 2 | hyun gyu | 17 |
+| 2 | hyun gyu | 18 |
 | 3 | YongjoonSeo | 12 |
 | 4 | fivestar1103 | 7 |
 | 5 | sally0226 | 4 |
@@ -94,6 +94,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Python](solutions/217/217.py) |  | Easy |  |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [C++](solutions/226/226-gusrb3164.cpp) |  | Easy |  |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Python](solutions/231/231.py) |  | Easy |  |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [C++](solutions/297/297-gusrb3164.cpp) |  | Hard |  |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C++](solutions/316/316-gusrb3164.cpp) |  | Medium |  |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [Python](solutions/326/326-yongjoonseo.py), [Python](solutions/326/326.py) | [md](solutions/326/326-yongjoonseo.md) | Easy |  |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) | [C++](solutions/332/332-gusrb3164.cpp) |  | Medium |  |
