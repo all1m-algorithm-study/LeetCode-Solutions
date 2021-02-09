@@ -16,13 +16,13 @@
 
 
 ## Ranking
-**2021년 02월 08일 20시 34분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 08일 21시 44분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 18 |
-| 2 | hyun gyu | 16 |
+| 2 | hyun gyu | 17 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 5 |
 | 5 | Spoof-UoS | 3 |
@@ -36,7 +36,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
-| 2 | hyun gyu | 24 |
+| 2 | hyun gyu | 25 |
 | 3 | YongjoonSeo | 21 |
 | 4 | Spoof-UoS | 9 |
 | 5 | fivestar1103 | 7 |
@@ -68,7 +68,7 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](solutions/5/5-moran991231.java) | [md](solutions/5/5-moran991231.md) | Medium |  |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](solutions/6/6-sally0226.cpp) | [md](solutions/6/6-sally0226.md) | Medium |  |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](solutions/7/7.py) |  | Easy |  |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Python](solutions/9/9.py) |  | Easy |  |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](solutions/9/9-gusrb3164.cpp), [Python](solutions/9/9.py) |  | Easy |  |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [C++](solutions/17/17-gusrb3164.cpp) |  | Medium |  |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/20/20-mulmuri.py) |  | Easy |  |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](solutions/37/37-fivestar1103.py) |  | Hard |  |
