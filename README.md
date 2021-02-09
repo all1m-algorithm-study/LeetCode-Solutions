@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 10일 00시 10분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 10일 00시 56분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -36,7 +36,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
-| 2 | hyun gyu | 27 |
+| 2 | hyun gyu | 28 |
 | 3 | YongjoonSeo | 21 |
 | 4 | Spoof-UoS | 9 |
 | 5 | fivestar1103 | 7 |
@@ -50,7 +50,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 47 |
-| 2 | hyun gyu | 18 |
+| 2 | hyun gyu | 19 |
 | 3 | YongjoonSeo | 12 |
 | 4 | fivestar1103 | 7 |
 | 5 | sally0226 | 4 |
@@ -96,6 +96,7 @@
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [C++](solutions/226/226-gusrb3164.cpp) |  | Easy |  |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Python](solutions/231/231.py) |  | Easy |  |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [C++](solutions/297/297-gusrb3164.cpp) |  | Hard |  |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | [C++](solutions/310/310-gusrb3164.cpp) |  | Medium |  |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C++](solutions/316/316-gusrb3164.cpp) |  | Medium |  |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [Python](solutions/326/326-yongjoonseo.py), [Python](solutions/326/326.py) | [md](solutions/326/326-yongjoonseo.md) | Easy |  |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) | [C++](solutions/332/332-gusrb3164.cpp) |  | Medium |  |
