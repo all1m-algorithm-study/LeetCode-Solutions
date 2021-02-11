@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 11일 19시 24분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 11일 20시 18분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -36,7 +36,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
-| 2 | hyun gyu | 29 |
+| 2 | hyun gyu | 30 |
 | 3 | YongjoonSeo | 21 |
 | 4 | Spoof-UoS | 9 |
 | 5 | fivestar1103 | 7 |
@@ -50,7 +50,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 47 |
-| 2 | hyun gyu | 19 |
+| 2 | hyun gyu | 20 |
 | 3 | YongjoonSeo | 12 |
 | 4 | fivestar1103 | 7 |
 | 5 | sally0226 | 4 |
@@ -121,7 +121,7 @@
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [Python](solutions/925/925-yongjoonseo.py) | [md](solutions/925/925-yongjoonseo.md) | Easy |  |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Python](solutions/994/994-yongjoonseo.py) | [md](solutions/994/994-yongjoonseo.md) | Medium |  |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](solutions/1008/1008-kir3i.cpp), [Python](solutions/1008/1008-kir3i.py) | [md](solutions/1008/1008-kir3i.md) | Medium |  |
-| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [Python](solutions/1038/1038-kir3i.py) | [md](solutions/1038/1038-kir3i.md) | Medium |  |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [C++](solutions/1038/1038-gusrb3164.cpp), [Python](solutions/1038/1038-kir3i.py) | [md](solutions/1038/1038-kir3i.md) | Medium |  |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Python](solutions/1091/1091-yongjoonseo.py) | [md](solutions/1091/1091-yongjoonseo.md) | Medium |  |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Python](solutions/1108/1108-kir3i.py) | [md](solutions/1108/1108-kir3i.md) | Easy |  |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [Python](solutions/1282/1282-kir3i.py) | [md](solutions/1282/1282-kir3i.md) | Medium |  |
