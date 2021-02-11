@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 04일 23시 28분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 08일 20시 18분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -24,7 +24,7 @@
 | 1 | kir3i | 14 |
 | 2 | hyun gyu | 13 |
 | 3 | fivestar1103 | 8 |
-| 4 | YongjoonSeo | 4 |
+| 4 | YongjoonSeo | 5 |
 | 5 | Spoof-UoS | 3 |
 | 6 | moran991231 | 3 |
 | 7 | Moonki Choi | 2 |
@@ -36,14 +36,14 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 45 |
-| 2 | hyun gyu | 19 |
-| 3 | YongjoonSeo | 13 |
+| 2 | YongjoonSeo | 21 |
+| 3 | hyun gyu | 19 |
 | 4 | Spoof-UoS | 9 |
 | 5 | fivestar1103 | 7 |
 | 6 | Moonki Choi | 4 |
 | 7 | sally0226 | 4 |
-| 8 | mulmuri | 3 |
-| 9 | moran991231 | 3 |
+| 8 | moran991231 | 4 |
+| 9 | mulmuri | 3 |
 | 10 | zeze1004 | 3 |
 
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
@@ -51,10 +51,10 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 35 |
 | 2 | hyun gyu | 16 |
-| 3 | fivestar1103 | 7 |
-| 4 | sally0226 | 4 |
-| 5 | YongjoonSeo | 4 |
-| 6 | moran991231 | 3 |
+| 3 | YongjoonSeo | 12 |
+| 4 | fivestar1103 | 7 |
+| 5 | sally0226 | 4 |
+| 6 | moran991231 | 4 |
 | 7 | mulmuri | 2 |
 | 8 | Spoof-UoS | 1 |
 
@@ -65,7 +65,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [C++](solutions/1/1.cpp), [Python](solutions/1/1-fivestar1103.py), [Python](solutions/1/1.py) | [md](solutions/1/1.md) | Easy |  |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](solutions/2/2-gusrb3164.cpp), [Java](solutions/2/2-moran991231.java) |  | Medium |  |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](solutions/3/3-gusrb3164.cpp), [C++](solutions/3/3.cpp), [Java](solutions/3/3-moran991231.java) | [md](solutions/3/3-moran991231.md), [md](solutions/3/3.md) | Medium |  |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](solutions/5/5-moran991231.java) |  | Medium |  |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](solutions/5/5-moran991231.java) | [md](solutions/5/5-moran991231.md) | Medium |  |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](solutions/6/6-sally0226.cpp) | [md](solutions/6/6-sally0226.md) | Medium |  |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](solutions/7/7.py) |  | Easy |  |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Python](solutions/9/9.py) |  | Easy |  |
@@ -83,6 +83,8 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [C++](solutions/78/78-gusrb3164.cpp) |  | Medium |  |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84/84-fivestar1103.py) |  | Hard |  |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [C++](solutions/92/92-gusrb3164.cpp) |  | Medium |  |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Python](solutions/103/103-yongjoonseo.py) | [md](solutions/103/103-yongjoonseo.md) | Medium |  |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [Python](solutions/130/130-yongjoonseo.py) | [md](solutions/130/130-yongjoonseo.md) | Medium |  |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python](solutions/172/172.py) |  | Easy |  |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [C++](solutions/200/200-gusrb3164.cpp), [Python](solutions/200/200-yongjoonseo.py) | [md](solutions/200/200-yongjoonseo.md) | Medium |  |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Python](solutions/202/202.py) |  | Easy |  |
@@ -108,8 +110,10 @@
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C++](solutions/797/797-kir3i.cpp), [Python](solutions/797/797-kir3i.py) | [md](solutions/797/797-kir3i.md) | Medium |  |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Python](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [Python](solutions/925/925-yongjoonseo.py) | [md](solutions/925/925-yongjoonseo.md) | Easy |  |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Python](solutions/994/994-yongjoonseo.py) | [md](solutions/994/994-yongjoonseo.md) | Medium |  |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](solutions/1008/1008-kir3i.cpp), [Python](solutions/1008/1008-kir3i.py) | [md](solutions/1008/1008-kir3i.md) | Medium |  |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [Python](solutions/1038/1038-kir3i.py) | [md](solutions/1038/1038-kir3i.md) | Medium |  |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Python](solutions/1091/1091-yongjoonseo.py) | [md](solutions/1091/1091-yongjoonseo.md) | Medium |  |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Python](solutions/1108/1108-kir3i.py) | [md](solutions/1108/1108-kir3i.md) | Easy |  |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [Python](solutions/1282/1282-kir3i.py) | [md](solutions/1282/1282-kir3i.md) | Medium |  |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [Python](solutions/1302/1302-kir3i.py) | [md](solutions/1302/1302-kir3i.md) | Medium |  |
