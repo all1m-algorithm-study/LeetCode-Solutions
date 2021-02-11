@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 08일 20시 18분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 11일 20시 35분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -25,8 +25,8 @@
 | 2 | hyun gyu | 13 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 5 |
-| 5 | Spoof-UoS | 3 |
-| 6 | moran991231 | 3 |
+| 5 | moran991231 | 4 |
+| 6 | Spoof-UoS | 3 |
 | 7 | Moonki Choi | 2 |
 | 8 | sally0226 | 2 |
 | 9 | mulmuri | 2 |
@@ -40,9 +40,9 @@
 | 3 | hyun gyu | 19 |
 | 4 | Spoof-UoS | 9 |
 | 5 | fivestar1103 | 7 |
-| 6 | Moonki Choi | 4 |
-| 7 | sally0226 | 4 |
-| 8 | moran991231 | 4 |
+| 6 | moran991231 | 6 |
+| 7 | Moonki Choi | 4 |
+| 8 | sally0226 | 4 |
 | 9 | mulmuri | 3 |
 | 10 | zeze1004 | 3 |
 
@@ -53,8 +53,8 @@
 | 2 | hyun gyu | 16 |
 | 3 | YongjoonSeo | 12 |
 | 4 | fivestar1103 | 7 |
-| 5 | sally0226 | 4 |
-| 6 | moran991231 | 4 |
+| 5 | moran991231 | 6 |
+| 6 | sally0226 | 4 |
 | 7 | mulmuri | 2 |
 | 8 | Spoof-UoS | 1 |
 
@@ -66,7 +66,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](solutions/2/2-gusrb3164.cpp), [Java](solutions/2/2-moran991231.java) |  | Medium |  |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](solutions/3/3-gusrb3164.cpp), [C++](solutions/3/3.cpp), [Java](solutions/3/3-moran991231.java) | [md](solutions/3/3-moran991231.md), [md](solutions/3/3.md) | Medium |  |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](solutions/5/5-moran991231.java) | [md](solutions/5/5-moran991231.md) | Medium |  |
-| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](solutions/6/6-sally0226.cpp) | [md](solutions/6/6-sally0226.md) | Medium |  |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](solutions/6/6-sally0226.cpp), [Java](solutions/6/6-moran991231.java) | [md](solutions/6/6-moran991231.md), [md](solutions/6/6-sally0226.md) | Medium |  |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](solutions/7/7.py) |  | Easy |  |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Python](solutions/9/9.py) |  | Easy |  |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [C++](solutions/17/17-gusrb3164.cpp) |  | Medium |  |
