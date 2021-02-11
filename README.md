@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 11일 20시 18분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 11일 20시 55분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -36,7 +36,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
-| 2 | hyun gyu | 30 |
+| 2 | hyun gyu | 31 |
 | 3 | YongjoonSeo | 21 |
 | 4 | Spoof-UoS | 9 |
 | 5 | fivestar1103 | 7 |
@@ -119,6 +119,7 @@
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C++](solutions/797/797-kir3i.cpp), [Python](solutions/797/797-kir3i.py) | [md](solutions/797/797-kir3i.md) | Medium |  |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Python](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [Python](solutions/925/925-yongjoonseo.py) | [md](solutions/925/925-yongjoonseo.md) | Easy |  |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [C++](solutions/938/938-gusrb3164.cpp) |  | Easy |  |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Python](solutions/994/994-yongjoonseo.py) | [md](solutions/994/994-yongjoonseo.md) | Medium |  |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](solutions/1008/1008-kir3i.cpp), [Python](solutions/1008/1008-kir3i.py) | [md](solutions/1008/1008-kir3i.md) | Medium |  |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [C++](solutions/1038/1038-gusrb3164.cpp), [Python](solutions/1038/1038-kir3i.py) | [md](solutions/1038/1038-kir3i.md) | Medium |  |
