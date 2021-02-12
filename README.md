@@ -16,12 +16,12 @@
 
 
 ## Ranking
-**2021년 02월 12일 23시 27분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 12일 23시 33분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 18 |
+| 1 | kir3i | 21 |
 | 2 | hyun gyu | 16 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 5 |
@@ -35,7 +35,7 @@
 ### (Event 2) 모든 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 57 |
+| 1 | kir3i | 67 |
 | 2 | hyun gyu | 24 |
 | 3 | YongjoonSeo | 21 |
 | 4 | Spoof-UoS | 9 |
@@ -49,7 +49,7 @@
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 47 |
+| 1 | kir3i | 57 |
 | 2 | hyun gyu | 17 |
 | 3 | YongjoonSeo | 12 |
 | 4 | moran991231 | 8 |
@@ -128,6 +128,7 @@
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [Python](solutions/1315/1315-kir3i.py) | [md](solutions/1315/1315-kir3i.md) | Medium |  |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Python](solutions/1329/1329-kir3i.py) | [md](solutions/1329/1329-kir3i.md) | Medium |  |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Python](solutions/1379/1379-kir3i.py) | [md](solutions/1379/1379-kir3i.md) | Medium |  |
+| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) | [C++](solutions/1381/1381-kir3i.cpp), [Java](solutions/1381/1381-kir3i.java), [Python](solutions/1381/1381-kir3i.py) | [md](solutions/1381/1381-kir3i.md) | Medium |  |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | [Python](solutions/1395/1395-kir3i.py) | [md](solutions/1395/1395-kir3i.md) | Medium |  |
 | 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key) | [Python](solutions/1409/1409-kir3i.py) | [md](solutions/1409/1409-kir3i.md) | Medium |  |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [Python](solutions/1470/1470-kir3i.py) | [md](solutions/1470/1470-kir3i.md) | Easy |  |
@@ -138,6 +139,8 @@
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get) | [C++](solutions/1561/1561-kir3i.cpp), [Python](solutions/1561/1561-kir3i.py) | [md](solutions/1561/1561-kir3i.md) | Medium |  |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays) | [C++](solutions/1630/1630-kir3i.cpp), [Python](solutions/1630/1630-kir3i.py) | [md](solutions/1630/1630-kir3i.md) | Medium |  |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [Python](solutions/1637/1637-kir3i.py) | [md](solutions/1637/1637-kir3i.md) | Medium |  |
+| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings) | [C++](solutions/1641/1641-kir3i.cpp), [Python](solutions/1641/1641-kir3i.py) | [md](solutions/1641/1641-kir3i.md) | Medium |  |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C++](solutions/1669/1669-kir3i.cpp), [Python](solutions/1669/1669-kir3i.py) | [md](solutions/1669/1669-kir3i.md) | Medium |  |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Python](solutions/1672/1672-kir3i.py) | [md](solutions/1672/1672-kir3i.md) | Easy |  |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [Python](solutions/1689/1689-kir3i.py) | [md](solutions/1689/1689-kir3i.md) | Medium |  |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | [Python](solutions/1725/1725-yongjoonseo.py) | [md](solutions/1725/1725-yongjoonseo.md) | Easy |  |
