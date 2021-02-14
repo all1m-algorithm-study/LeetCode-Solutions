@@ -16,12 +16,12 @@
 
 
 ## Ranking
-**2021년 02월 12일 23시 56분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 14일 23시 02분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | hyun gyu | 21 |
+| 1 | hyun gyu | 23 |
 | 2 | kir3i | 21 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 8 |
@@ -37,7 +37,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 67 |
 | 2 | YongjoonSeo | 39 |
-| 3 | hyun gyu | 33 |
+| 3 | hyun gyu | 36 |
 | 4 | Spoof-UoS | 9 |
 | 5 | moran991231 | 9 |
 | 6 | fivestar1103 | 7 |
@@ -51,7 +51,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
 | 2 | YongjoonSeo | 26 |
-| 3 | hyun gyu | 21 |
+| 3 | hyun gyu | 24 |
 | 4 | moran991231 | 8 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
@@ -98,6 +98,8 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Python](solutions/202/202.py) |  | Easy |  |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C++](solutions/206/206(1)-gusrb3164.cpp), [C++](solutions/206/206(2)-gusrb3164.cpp) | [md](solutions/206/206-gusrb3164.md) | Easy |  |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [C++](solutions/207/207-gusrb3164.cpp) |  | Medium |  |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](solutions/208/208-gusrb3164.cpp) |  | Medium |  |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](solutions/215/215-gusrb3164.cpp) | [md](solutions/215/215-gusrb3164.md) | Medium |  |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Python](solutions/217/217.py) |  | Easy |  |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [C++](solutions/226/226-gusrb3164.cpp) |  | Easy |  |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Python](solutions/231/231.py) |  | Easy |  |
