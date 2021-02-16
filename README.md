@@ -16,12 +16,12 @@
 
 
 ## Ranking
-**2021년 02월 15일 21시 20분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 17일 00시 29분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | hyun gyu | 24 |
+| 1 | hyun gyu | 26 |
 | 2 | kir3i | 21 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 8 |
@@ -36,8 +36,8 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 67 |
-| 2 | YongjoonSeo | 39 |
-| 3 | hyun gyu | 37 |
+| 2 | hyun gyu | 40 |
+| 3 | YongjoonSeo | 39 |
 | 4 | Spoof-UoS | 9 |
 | 5 | moran991231 | 9 |
 | 6 | fivestar1103 | 7 |
@@ -119,6 +119,7 @@
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [C++](solutions/543/543-gusrb3164.cpp) |  | Easy |  |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | [Python](solutions/547/547-yongjoonseo.py) | [md](solutions/547/547-yongjoonseo.md) | Medium |  |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python](solutions/559/559-yongjoonseo.py) | [md](solutions/559/559-yongjoonseo.md) | Easy |  |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) |  |  | Easy |  |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [C++](solutions/617/617-gusrb3164.cpp) |  | Easy |  |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Python](solutions/654/654-kir3i.py) | [md](solutions/654/654-kir3i.md) | Medium |  |
 | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) | [C++](solutions/687/687-gusrb3164.cpp) |  | Medium |  |
