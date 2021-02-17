@@ -21,7 +21,7 @@
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | hyun gyu | 21 |
+| 1 | hyun gyu | 26 |
 | 2 | kir3i | 21 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 8 |
@@ -69,6 +69,7 @@
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](solutions/6/6-sally0226.cpp), [Java](solutions/6/6-moran991231.java) | [md](solutions/6/6-moran991231.md), [md](solutions/6/6-sally0226.md) | Medium |  |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Java](solutions/7/7-moran991231.java), [Python](solutions/7/7.py) |  | Easy |  |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](solutions/9/9-gusrb3164.cpp), [Python](solutions/9/9.py) |  | Easy |  |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [C++](solutions/13/13-gusrb3164.cpp) |  | Easy |  |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [C++](solutions/17/17-gusrb3164.cpp) |  | Medium |  |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/20/20-mulmuri.py) |  | Easy |  |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Java](solutions/23/23-moran991231.java) | [md](solutions/23/23-moran991231.md) | Hard |  |
@@ -99,6 +100,8 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Python](solutions/202/202.py) |  | Easy |  |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C++](solutions/206/206(1)-gusrb3164.cpp), [C++](solutions/206/206(2)-gusrb3164.cpp) | [md](solutions/206/206-gusrb3164.md) | Easy |  |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [C++](solutions/207/207-gusrb3164.cpp) |  | Medium |  |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](solutions/208/208-gusrb3164.cpp) |  | Medium |  |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](solutions/215/215-gusrb3164.cpp) | [md](solutions/215/215-gusrb3164.md) | Medium |  |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Python](solutions/217/217.py) |  | Easy |  |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [C++](solutions/226/226-gusrb3164.cpp) |  | Easy |  |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Python](solutions/231/231.py) |  | Easy |  |
@@ -117,6 +120,7 @@
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [C++](solutions/543/543-gusrb3164.cpp) |  | Easy |  |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | [Python](solutions/547/547-yongjoonseo.py) | [md](solutions/547/547-yongjoonseo.md) | Medium |  |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python](solutions/559/559-yongjoonseo.py) | [md](solutions/559/559-yongjoonseo.md) | Easy |  |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) |  |  | Easy |  |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [C++](solutions/617/617-gusrb3164.cpp) |  | Easy |  |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Python](solutions/654/654-kir3i.py) | [md](solutions/654/654-kir3i.md) | Medium |  |
 | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) | [C++](solutions/687/687-gusrb3164.cpp) |  | Medium |  |
