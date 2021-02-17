@@ -16,15 +16,15 @@
 
 
 ## Ranking
-**2021년 02월 17일 16시 22분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 17일 23시 38분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | hyun gyu | 26 |
 | 2 | kir3i | 26 |
-| 3 | fivestar1103 | 8 |
-| 4 | YongjoonSeo | 8 |
+| 3 | YongjoonSeo | 11 |
+| 4 | fivestar1103 | 8 |
 | 5 | moran991231 | 6 |
 | 6 | Spoof-UoS | 3 |
 | 7 | Moonki Choi | 2 |
@@ -36,8 +36,8 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 106 |
-| 2 | hyun gyu | 40 |
-| 3 | YongjoonSeo | 39 |
+| 2 | YongjoonSeo | 53 |
+| 3 | hyun gyu | 40 |
 | 4 | moran991231 | 11 |
 | 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
@@ -50,7 +50,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 76 |
-| 2 | YongjoonSeo | 26 |
+| 2 | YongjoonSeo | 40 |
 | 3 | hyun gyu | 24 |
 | 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
@@ -81,11 +81,14 @@
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Python](solutions/50/50.py) |  | Medium |  |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Python](solutions/51/51-fivestar1103.py) |  | Hard |  |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Python](solutions/52/52-fivestar1103.py) |  | Hard |  |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](solutions/56/56-yongjoonseo.py) | [md](solutions/56/56-yongjoonseo.md) | Medium |  |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | [C](solutions/60/60-fivestar1103.c) |  | Hard |  |
 | 77 | [Combinations](https://leetcode.com/problems/combinations) | [C++](solutions/77/77-gusrb3164.cpp) |  | Medium |  |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [C++](solutions/78/78-gusrb3164.cpp) |  | Medium |  |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84/84-fivestar1103.py) |  | Hard |  |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [C++](solutions/92/92-gusrb3164.cpp) |  | Medium |  |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Python](solutions/94/94-yongjoonseo.py) | [md](solutions/94/94-yongjoonseo.md) | Medium |  |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](solutions/102/102-yongjoonseo.py) | [md](solutions/102/102-yongjoonseo.md) | Medium |  |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Python](solutions/103/103-yongjoonseo.py) | [md](solutions/103/103-yongjoonseo.md) | Medium |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](solutions/104/104-gusrb3164.cpp) |  | Easy |  |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [C++](solutions/105/105-gusrb3164.cpp) |  | Medium |  |
@@ -94,6 +97,8 @@
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [C++](solutions/110/110-gusrb3164.cpp) |  | Easy |  |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python](solutions/111/111-yongjoonseo.py) | [md](solutions/111/111-yongjoonseo.md) | Easy |  |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [Python](solutions/130/130-yongjoonseo.py) | [md](solutions/130/130-yongjoonseo.md) | Medium |  |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](solutions/144/144-yongjoonseo.py) | [md](solutions/144/144-yongjoonseo.md) | Medium |  |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](solutions/145/145-yongjoonseo.py) | [md](solutions/145/145-yongjoonseo.md) | Medium |  |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python](solutions/172/172.py) |  | Easy |  |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Python](solutions/199/199-yongjoonseo.py) | [md](solutions/199/199-yongjoonseo.md) | Medium |  |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [C++](solutions/200/200-gusrb3164.cpp), [Python](solutions/200/200-yongjoonseo.py) | [md](solutions/200/200-yongjoonseo.md) | Medium |  |
@@ -136,7 +141,9 @@
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Python](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [Python](solutions/925/925-yongjoonseo.py) | [md](solutions/925/925-yongjoonseo.md) | Easy |  |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [C++](solutions/938/938-gusrb3164.cpp) |  | Easy |  |
+| 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | [Python](solutions/945/945-yongjoonseo.py) | [md](solutions/945/945-yongjoonseo.md) | Medium |  |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](solutions/950/950-kir3i.cpp), [Java](solutions/950/950-kir3i.java), [Python](solutions/950/950-kir3i.py) | [md](solutions/950/950-kir3i.md) | Medium |  |
+| 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations) | [Python](solutions/990/990-yongjoonseo.py) | [md](solutions/990/990-yongjoonseo.md) | Medium |  |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Python](solutions/994/994-yongjoonseo.py) | [md](solutions/994/994-yongjoonseo.md) | Medium |  |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](solutions/1008/1008-kir3i.cpp), [Python](solutions/1008/1008-kir3i.py) | [md](solutions/1008/1008-kir3i.md) | Medium |  |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [C++](solutions/1038/1038-gusrb3164.cpp), [Python](solutions/1038/1038-kir3i.py) | [md](solutions/1038/1038-kir3i.md) | Medium |  |
