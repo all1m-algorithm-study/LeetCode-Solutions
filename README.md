@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 17일 00시 29분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 17일 14시 44분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -25,7 +25,7 @@
 | 2 | kir3i | 21 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 8 |
-| 5 | moran991231 | 5 |
+| 5 | moran991231 | 6 |
 | 6 | Spoof-UoS | 3 |
 | 7 | Moonki Choi | 2 |
 | 8 | sally0226 | 2 |
@@ -36,10 +36,10 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 67 |
-| 2 | hyun gyu | 40 |
-| 3 | YongjoonSeo | 39 |
-| 4 | Spoof-UoS | 9 |
-| 5 | moran991231 | 9 |
+| 2 | YongjoonSeo | 39 |
+| 3 | hyun gyu | 33 |
+| 4 | moran991231 | 11 |
+| 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
 | 7 | Moonki Choi | 4 |
 | 8 | sally0226 | 4 |
@@ -51,8 +51,8 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
 | 2 | YongjoonSeo | 26 |
-| 3 | hyun gyu | 24 |
-| 4 | moran991231 | 8 |
+| 3 | hyun gyu | 21 |
+| 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
 | 7 | mulmuri | 2 |
@@ -73,6 +73,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [C++](solutions/17/17-gusrb3164.cpp) |  | Medium |  |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/20/20-mulmuri.py) |  | Easy |  |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Java](solutions/23/23-moran991231.java) | [md](solutions/23/23-moran991231.md) | Hard |  |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Java](solutions/34/34-moran991231.java) | [md](solutions/34/34-moran991231.md) | Medium |  |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](solutions/37/37-fivestar1103.py) |  | Hard |  |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [C++](solutions/39/39-gusrb3164.cpp), [Python](solutions/39/39-fivestar1103.py) |  | Medium |  |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](solutions/42/42-fivestar1103.py), [Python](solutions/42/42-gusrb3164.py) |  | Hard |  |
