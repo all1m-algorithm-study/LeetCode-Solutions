@@ -16,12 +16,12 @@
 
 
 ## Ranking
-**2021년 02월 17일 15시 30분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 18일 00시 26분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | hyun gyu | 26 |
+| 1 | hyun gyu | 27 |
 | 2 | kir3i | 21 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 8 |
@@ -36,7 +36,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 67 |
-| 2 | hyun gyu | 40 |
+| 2 | hyun gyu | 42 |
 | 3 | YongjoonSeo | 39 |
 | 4 | moran991231 | 11 |
 | 5 | Spoof-UoS | 9 |
@@ -51,7 +51,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 57 |
 | 2 | YongjoonSeo | 26 |
-| 3 | hyun gyu | 24 |
+| 3 | hyun gyu | 25 |
 | 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
@@ -85,6 +85,7 @@
 | 77 | [Combinations](https://leetcode.com/problems/combinations) | [C++](solutions/77/77-gusrb3164.cpp) |  | Medium |  |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [C++](solutions/78/78-gusrb3164.cpp) |  | Medium |  |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84/84-fivestar1103.py) |  | Hard |  |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) |  |  | Easy |  |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [C++](solutions/92/92-gusrb3164.cpp) |  | Medium |  |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Python](solutions/103/103-yongjoonseo.py) | [md](solutions/103/103-yongjoonseo.md) | Medium |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](solutions/104/104-gusrb3164.cpp) |  | Easy |  |
@@ -133,6 +134,7 @@
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Python](solutions/791/791-yongjoonseo.py) | [md](solutions/791/791-yongjoonseo.md) | Medium |  |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C++](solutions/797/797-kir3i.cpp), [Python](solutions/797/797-kir3i.py) | [md](solutions/797/797-kir3i.md) | Medium |  |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Python](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) |  |  | Medium |  |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [Python](solutions/925/925-yongjoonseo.py) | [md](solutions/925/925-yongjoonseo.md) | Easy |  |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [C++](solutions/938/938-gusrb3164.cpp) |  | Easy |  |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Python](solutions/994/994-yongjoonseo.py) | [md](solutions/994/994-yongjoonseo.md) | Medium |  |
