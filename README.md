@@ -16,13 +16,13 @@
 
 
 ## Ranking
-**2021년 02월 17일 15시 30분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 17일 16시 22분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | hyun gyu | 26 |
-| 2 | kir3i | 21 |
+| 2 | kir3i | 26 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 8 |
 | 5 | moran991231 | 6 |
@@ -35,7 +35,7 @@
 ### (Event 2) 모든 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 67 |
+| 1 | kir3i | 106 |
 | 2 | hyun gyu | 40 |
 | 3 | YongjoonSeo | 39 |
 | 4 | moran991231 | 11 |
@@ -49,7 +49,7 @@
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 57 |
+| 1 | kir3i | 76 |
 | 2 | YongjoonSeo | 26 |
 | 3 | hyun gyu | 24 |
 | 4 | moran991231 | 10 |
@@ -124,6 +124,7 @@
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [C++](solutions/617/617-gusrb3164.cpp) |  | Easy |  |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Python](solutions/654/654-kir3i.py) | [md](solutions/654/654-kir3i.md) | Medium |  |
 | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) | [C++](solutions/687/687-gusrb3164.cpp) |  | Medium |  |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [C++](solutions/701/701-kir3i.cpp), [Java](solutions/701/701-kir3i.java), [Python](solutions/701/701-kir3i.py) | [md](solutions/701/701-kir3i.md) | Medium |  |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [C++](solutions/739/739-gusrb3164.cpp) |  | Medium |  |
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [C++](solutions/743/743-gusrb3164.cpp), [Python](solutions/743/743-yongjoonseo.py) | [md](solutions/743/743-yongjoonseo.md) | Medium |  |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [C++](solutions/763/763-kir3i.cpp), [Python](solutions/763/763-kir3i.py) | [md](solutions/763/763-kir3i.md) | Medium |  |
@@ -135,6 +136,7 @@
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Python](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [Python](solutions/925/925-yongjoonseo.py) | [md](solutions/925/925-yongjoonseo.md) | Easy |  |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [C++](solutions/938/938-gusrb3164.cpp) |  | Easy |  |
+| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](solutions/950/950-kir3i.cpp), [Java](solutions/950/950-kir3i.java), [Python](solutions/950/950-kir3i.py) | [md](solutions/950/950-kir3i.md) | Medium |  |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Python](solutions/994/994-yongjoonseo.py) | [md](solutions/994/994-yongjoonseo.md) | Medium |  |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](solutions/1008/1008-kir3i.cpp), [Python](solutions/1008/1008-kir3i.py) | [md](solutions/1008/1008-kir3i.md) | Medium |  |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [C++](solutions/1038/1038-gusrb3164.cpp), [Python](solutions/1038/1038-kir3i.py) | [md](solutions/1038/1038-kir3i.md) | Medium |  |
@@ -147,22 +149,30 @@
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [C++](solutions/1310/1310-gusrb3164.cpp) |  | Medium |  |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [Python](solutions/1315/1315-kir3i.py) | [md](solutions/1315/1315-kir3i.md) | Medium |  |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Python](solutions/1329/1329-kir3i.py) | [md](solutions/1329/1329-kir3i.md) | Medium |  |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [C++](solutions/1342/1342-kir3i.cpp), [Java](solutions/1342/1342-kir3i.java), [Python](solutions/1342/1342-kir3i.py) | [md](solutions/1342/1342-kir3i.md) | Easy |  |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [C++](solutions/1347/1347-kir3i.cpp), [Java](solutions/1347/1347-kir3i.java), [Python](solutions/1347/1347-kir3i.py) | [md](solutions/1347/1347-kir3i.md) | Medium |  |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](solutions/1365/1365-kir3i.cpp), [Java](solutions/1365/1365-kir3i.java), [Python](solutions/1365/1365-kir3i.py) | [md](solutions/1365/1365-kir3i.md) | Easy |  |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Python](solutions/1379/1379-kir3i.py) | [md](solutions/1379/1379-kir3i.md) | Medium |  |
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) | [C++](solutions/1381/1381-kir3i.cpp), [Java](solutions/1381/1381-kir3i.java), [Python](solutions/1381/1381-kir3i.py) | [md](solutions/1381/1381-kir3i.md) | Medium |  |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | [C++](solutions/1382/1382-kir3i.cpp), [Python](solutions/1382/1382-kir3i.py) | [md](solutions/1382/1382-kir3i.md) | Medium |  |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | [Python](solutions/1395/1395-kir3i.py) | [md](solutions/1395/1395-kir3i.md) | Medium |  |
 | 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key) | [Python](solutions/1409/1409-kir3i.py) | [md](solutions/1409/1409-kir3i.md) | Medium |  |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [Python](solutions/1470/1470-kir3i.py) | [md](solutions/1470/1470-kir3i.md) | Easy |  |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Python](solutions/1480/1480-kir3i.py) | [md](solutions/1480/1480-kir3i.md) | Easy |  |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Python](solutions/1512/1512-kir3i.py) | [md](solutions/1512/1512-kir3i.md) | Easy |  |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [C++](solutions/1528/1528-kir3i.cpp), [Java](solutions/1528/1528-kir3i.java), [Python](solutions/1528/1528-kir3i.py) | [md](solutions/1528/1528-kir3i.md) | Easy |  |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [Python](solutions/1544/1544-yongjoonseo.py) | [md](solutions/1544/1544-yongjoonseo.md) | Easy |  |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal) | [C++](solutions/1551/1551-kir3i.cpp), [Python](solutions/1551/1551-kir3i.py) | [md](solutions/1551/1551-kir3i.md) | Medium |  |
+| 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [C++](solutions/1557/1557-kir3i.cpp), [Java](solutions/1557/1557-kir3i.java), [Python](solutions/1557/1557-kir3i.py) | [md](solutions/1557/1557-kir3i.md) | Medium |  |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get) | [C++](solutions/1561/1561-kir3i.cpp), [Python](solutions/1561/1561-kir3i.py) | [md](solutions/1561/1561-kir3i.md) | Medium |  |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [C++](solutions/1603/1603-kir3i.cpp), [Java](solutions/1603/1603-kir3i.java), [Python](solutions/1603/1603-kir3i.py) | [md](solutions/1603/1603-kir3i.md) | Easy |  |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays) | [C++](solutions/1630/1630-kir3i.cpp), [Python](solutions/1630/1630-kir3i.py) | [md](solutions/1630/1630-kir3i.md) | Medium |  |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [Python](solutions/1637/1637-kir3i.py) | [md](solutions/1637/1637-kir3i.md) | Medium |  |
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings) | [C++](solutions/1641/1641-kir3i.cpp), [Python](solutions/1641/1641-kir3i.py) | [md](solutions/1641/1641-kir3i.md) | Medium |  |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C++](solutions/1669/1669-kir3i.cpp), [Python](solutions/1669/1669-kir3i.py) | [md](solutions/1669/1669-kir3i.md) | Medium |  |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Python](solutions/1672/1672-kir3i.py) | [md](solutions/1672/1672-kir3i.md) | Easy |  |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [Python](solutions/1689/1689-kir3i.py) | [md](solutions/1689/1689-kir3i.md) | Medium |  |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | [C++](solutions/1720/1720-kir3i.cpp), [Java](solutions/1720/1720-kir3i.java), [Python](solutions/1720/1720-kir3i.py) | [md](solutions/1720/1720-kir3i.md) | Easy |  |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | [Python](solutions/1725/1725-yongjoonseo.py) | [md](solutions/1725/1725-yongjoonseo.md) | Easy |  |
 
 
