@@ -72,6 +72,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [C++](solutions/17/17-gusrb3164.cpp) |  | Medium |  |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/20/20-mulmuri.py) |  | Easy |  |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Java](solutions/23/23-moran991231.java) | [md](solutions/23/23-moran991231.md) | Hard |  |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Java](solutions/34/34-moran991231.java) | [md](solutions/34/34-moran991231.md) | Medium |  |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](solutions/37/37-fivestar1103.py) |  | Hard |  |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [C++](solutions/39/39-gusrb3164.cpp), [Python](solutions/39/39-fivestar1103.py) |  | Medium |  |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](solutions/42/42-fivestar1103.py), [Python](solutions/42/42-gusrb3164.py) |  | Hard |  |
