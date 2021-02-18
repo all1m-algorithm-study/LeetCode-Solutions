@@ -16,13 +16,13 @@
 
 
 ## Ranking
-**2021년 02월 17일 23시 38분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 18일 16시 21분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | hyun gyu | 26 |
-| 2 | kir3i | 26 |
+| 1 | kir3i | 27 |
+| 2 | hyun gyu | 26 |
 | 3 | YongjoonSeo | 11 |
 | 4 | fivestar1103 | 8 |
 | 5 | moran991231 | 6 |
@@ -35,7 +35,7 @@
 ### (Event 2) 모든 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 106 |
+| 1 | kir3i | 110 |
 | 2 | YongjoonSeo | 53 |
 | 3 | hyun gyu | 40 |
 | 4 | moran991231 | 11 |
@@ -49,7 +49,7 @@
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 76 |
+| 1 | kir3i | 80 |
 | 2 | YongjoonSeo | 40 |
 | 3 | hyun gyu | 24 |
 | 4 | moran991231 | 10 |
@@ -139,6 +139,7 @@
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Python](solutions/791/791-yongjoonseo.py) | [md](solutions/791/791-yongjoonseo.md) | Medium |  |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C++](solutions/797/797-kir3i.cpp), [Python](solutions/797/797-kir3i.py) | [md](solutions/797/797-kir3i.md) | Medium |  |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Python](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [C++](solutions/921/921-kir3i.cpp), [Java](solutions/921/921-kir3i.java), [Python](solutions/921/921-kir3i.py) | [md](solutions/921/921-kir3i.md) | Medium |  |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [Python](solutions/925/925-yongjoonseo.py) | [md](solutions/925/925-yongjoonseo.md) | Easy |  |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [C++](solutions/938/938-gusrb3164.cpp) |  | Easy |  |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | [Python](solutions/945/945-yongjoonseo.py) | [md](solutions/945/945-yongjoonseo.md) | Medium |  |
