@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 17일 14시 44분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 20일 02시 19분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -25,7 +25,7 @@
 | 2 | kir3i | 21 |
 | 3 | fivestar1103 | 8 |
 | 4 | YongjoonSeo | 8 |
-| 5 | moran991231 | 6 |
+| 5 | moran991231 | 7 |
 | 6 | Spoof-UoS | 3 |
 | 7 | Moonki Choi | 2 |
 | 8 | sally0226 | 2 |
@@ -38,7 +38,7 @@
 | 1 | kir3i | 67 |
 | 2 | YongjoonSeo | 39 |
 | 3 | hyun gyu | 33 |
-| 4 | moran991231 | 11 |
+| 4 | moran991231 | 16 |
 | 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
 | 7 | Moonki Choi | 4 |
@@ -52,7 +52,7 @@
 | 1 | kir3i | 57 |
 | 2 | YongjoonSeo | 26 |
 | 3 | hyun gyu | 21 |
-| 4 | moran991231 | 10 |
+| 4 | moran991231 | 15 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
 | 7 | mulmuri | 2 |
@@ -73,7 +73,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/20/20-mulmuri.py) |  | Easy |  |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Java](solutions/23/23-moran991231.java) | [md](solutions/23/23-moran991231.md) | Hard |  |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Java](solutions/34/34-moran991231.java) | [md](solutions/34/34-moran991231.md) | Medium |  |
-| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](solutions/37/37-fivestar1103.py) |  | Hard |  |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Java](solutions/37/37-moran991231.java), [Python](solutions/37/37-fivestar1103.py) |  | Hard |  |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [C++](solutions/39/39-gusrb3164.cpp), [Python](solutions/39/39-fivestar1103.py) |  | Medium |  |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](solutions/42/42-fivestar1103.py), [Python](solutions/42/42-gusrb3164.py) |  | Hard |  |
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | [C++](solutions/46/46-gusrb3164.cpp), [Python](solutions/46/46-fivestar1103.py) |  | Medium |  |
@@ -81,6 +81,9 @@
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Python](solutions/51/51-fivestar1103.py) |  | Hard |  |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Python](solutions/52/52-fivestar1103.py) |  | Hard |  |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | [C](solutions/60/60-fivestar1103.c) |  | Hard |  |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | [Java](solutions/61/61-moran991231.java) |  | Medium |  |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Java](solutions/62/62-moran991231.java) |  | Medium |  |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Java](solutions/63/63-moran991231.java) | [md](solutions/63/63-moran991231.md) | Medium |  |
 | 77 | [Combinations](https://leetcode.com/problems/combinations) | [C++](solutions/77/77-gusrb3164.cpp) |  | Medium |  |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [C++](solutions/78/78-gusrb3164.cpp) |  | Medium |  |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84/84-fivestar1103.py) |  | Hard |  |
