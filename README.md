@@ -16,15 +16,13 @@
 
 
 ## Ranking
-
-**2021년 02월 18일 16시 21분**에 마지막으로 업데이트된 순위입니다.
-
+**2021년 02월 19일 11시 07분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 27 |
-| 2 | hyun gyu | 26 |
+| 1 | hyun gyu | 27 |
+| 2 | kir3i | 27 |
 | 3 | YongjoonSeo | 11 |
 | 4 | fivestar1103 | 8 |
 | 5 | moran991231 | 6 |
@@ -39,7 +37,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 110 |
 | 2 | YongjoonSeo | 53 |
-| 3 | hyun gyu | 40 |
+| 3 | hyun gyu | 42 |
 | 4 | moran991231 | 11 |
 | 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
@@ -53,7 +51,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 80 |
 | 2 | YongjoonSeo | 40 |
-| 3 | hyun gyu | 24 |
+| 3 | hyun gyu | 25 |
 | 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
