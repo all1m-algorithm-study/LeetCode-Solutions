@@ -19,16 +19,11 @@ class Table_maker:
             Analysis = []
             Solution = []
             for file in os.listdir(os.path.join(self.path_from, problem)):
-                if file[-2:] == ".c":
-                    Solution.append(f'[C](solutions/{problem}/{file})')
-                elif file[-4:] == ".cpp":
-                    Solution.append(f'[C++](solutions/{problem}/{file})')
-                elif file[-3:] == ".py":
-                    Solution.append(f'[Python](solutions/{problem}/{file})')
-                elif file[-5:] == ".java":
-                    Solution.append(f'[Java](solutions/{problem}/{file})')
-                elif file[-3:] == ".md":
-                    Analysis.append(f'[md](solutions/{problem}/{file})')
+                fmt = file.split('.')[-1]
+                if fmt in ["md", "txt", "pdf"]:
+                    Analysis.append(f'[{fmt}](solutions/{problem}/{file})')
+                else:
+                    Solution.append(f'[{fmt}](solutions/{problem}/{file})')
 
             Title = self.problems_info[index]['Title']
             link = self.problems_info[index]['href']
