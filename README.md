@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 19일 11시 07분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 20일 20시 38분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -100,6 +100,7 @@
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [Python](solutions/130/130-yongjoonseo.py) | [md](solutions/130/130-yongjoonseo.md) | Medium |  |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](solutions/144/144-yongjoonseo.py) | [md](solutions/144/144-yongjoonseo.md) | Medium |  |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](solutions/145/145-yongjoonseo.py) | [md](solutions/145/145-yongjoonseo.md) | Medium |  |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) |  |  | Medium |  |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python](solutions/172/172.py) |  | Easy |  |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Python](solutions/199/199-yongjoonseo.py) | [md](solutions/199/199-yongjoonseo.md) | Medium |  |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [C++](solutions/200/200-gusrb3164.cpp), [Python](solutions/200/200-yongjoonseo.py) | [md](solutions/200/200-yongjoonseo.md) | Medium |  |
