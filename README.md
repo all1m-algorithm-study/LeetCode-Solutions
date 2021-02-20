@@ -16,12 +16,12 @@
 
 
 ## Ranking
-**2021년 02월 20일 21시 25분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 21일 00시 34분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | hyun gyu | 28 |
+| 1 | hyun gyu | 29 |
 | 2 | kir3i | 27 |
 | 3 | YongjoonSeo | 11 |
 | 4 | fivestar1103 | 8 |
@@ -37,7 +37,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 110 |
 | 2 | YongjoonSeo | 53 |
-| 3 | hyun gyu | 44 |
+| 3 | hyun gyu | 45 |
 | 4 | moran991231 | 11 |
 | 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
@@ -51,7 +51,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 80 |
 | 2 | YongjoonSeo | 40 |
-| 3 | hyun gyu | 26 |
+| 3 | hyun gyu | 27 |
 | 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
@@ -83,6 +83,7 @@
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Python](solutions/52/52-fivestar1103.py) |  | Hard |  |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](solutions/56/56-yongjoonseo.py) | [md](solutions/56/56-yongjoonseo.md) | Medium |  |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | [C](solutions/60/60-fivestar1103.c) |  | Hard |  |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) |  |  | Medium |  |
 | 77 | [Combinations](https://leetcode.com/problems/combinations) | [C++](solutions/77/77-gusrb3164.cpp) |  | Medium |  |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [C++](solutions/78/78-gusrb3164.cpp) |  | Medium |  |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84/84-fivestar1103.py) |  | Hard |  |
