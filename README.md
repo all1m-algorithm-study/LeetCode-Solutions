@@ -16,12 +16,12 @@
 
 
 ## Ranking
-**2021년 02월 20일 20시 38분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 20일 21시 25분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | hyun gyu | 27 |
+| 1 | hyun gyu | 28 |
 | 2 | kir3i | 27 |
 | 3 | YongjoonSeo | 11 |
 | 4 | fivestar1103 | 8 |
@@ -37,7 +37,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 110 |
 | 2 | YongjoonSeo | 53 |
-| 3 | hyun gyu | 42 |
+| 3 | hyun gyu | 44 |
 | 4 | moran991231 | 11 |
 | 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
@@ -51,7 +51,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 80 |
 | 2 | YongjoonSeo | 40 |
-| 3 | hyun gyu | 25 |
+| 3 | hyun gyu | 26 |
 | 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
@@ -102,6 +102,7 @@
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](solutions/145/145-yongjoonseo.py) | [md](solutions/145/145-yongjoonseo.md) | Medium |  |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) |  |  | Medium |  |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python](solutions/172/172.py) |  | Easy |  |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number) |  |  | Medium |  |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Python](solutions/199/199-yongjoonseo.py) | [md](solutions/199/199-yongjoonseo.md) | Medium |  |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [C++](solutions/200/200-gusrb3164.cpp), [Python](solutions/200/200-yongjoonseo.py) | [md](solutions/200/200-yongjoonseo.md) | Medium |  |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Python](solutions/202/202.py) |  | Easy |  |
@@ -112,6 +113,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Python](solutions/217/217.py) |  | Easy |  |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [C++](solutions/226/226-gusrb3164.cpp) |  | Easy |  |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Python](solutions/231/231.py) |  | Easy |  |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) |  |  | Easy |  |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [C++](solutions/297/297-gusrb3164.cpp) |  | Hard |  |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | [C++](solutions/310/310-gusrb3164.cpp) |  | Medium |  |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C++](solutions/316/316-gusrb3164.cpp) |  | Medium |  |
