@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 21일 00시 38분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 21일 01시 24분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -37,7 +37,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 110 |
 | 2 | YongjoonSeo | 53 |
-| 3 | hyun gyu | 45 |
+| 3 | hyun gyu | 46 |
 | 4 | moran991231 | 11 |
 | 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
@@ -51,7 +51,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 80 |
 | 2 | YongjoonSeo | 40 |
-| 3 | hyun gyu | 27 |
+| 3 | hyun gyu | 28 |
 | 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
@@ -150,6 +150,7 @@
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [cpp](solutions/938/938-gusrb3164.cpp) |  | Easy |  |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | [py](solutions/945/945-yongjoonseo.py) | [md](solutions/945/945-yongjoonseo.md) | Medium |  |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [cpp](solutions/950/950-kir3i.cpp), [java](solutions/950/950-kir3i.java), [py](solutions/950/950-kir3i.py) | [md](solutions/950/950-kir3i.md) | Medium |  |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [cpp](solutions/973/973-gusrb3164.cpp) |  | Medium |  |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations) | [py](solutions/990/990-yongjoonseo.py) | [md](solutions/990/990-yongjoonseo.md) | Medium |  |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [py](solutions/994/994-yongjoonseo.py) | [md](solutions/994/994-yongjoonseo.md) | Medium |  |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [cpp](solutions/1008/1008-kir3i.cpp), [py](solutions/1008/1008-kir3i.py) | [md](solutions/1008/1008-kir3i.md) | Medium |  |
