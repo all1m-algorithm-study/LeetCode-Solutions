@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 20일 02시 19분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 20일 16시 28분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -38,7 +38,7 @@
 | 1 | kir3i | 67 |
 | 2 | YongjoonSeo | 39 |
 | 3 | hyun gyu | 33 |
-| 4 | moran991231 | 16 |
+| 4 | moran991231 | 20 |
 | 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
 | 7 | Moonki Choi | 4 |
@@ -52,7 +52,7 @@
 | 1 | kir3i | 57 |
 | 2 | YongjoonSeo | 26 |
 | 3 | hyun gyu | 21 |
-| 4 | moran991231 | 15 |
+| 4 | moran991231 | 18 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
 | 7 | mulmuri | 2 |
@@ -84,9 +84,13 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | [Java](solutions/61/61-moran991231.java) |  | Medium |  |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Java](solutions/62/62-moran991231.java) |  | Medium |  |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Java](solutions/63/63-moran991231.java) | [md](solutions/63/63-moran991231.md) | Medium |  |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number) | [Java](solutions/65/65-moran991231.java) |  | Hard |  |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](solutions/67/67-moran991231.java) |  | Easy |  |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |  |  | Medium |  |
 | 77 | [Combinations](https://leetcode.com/problems/combinations) | [C++](solutions/77/77-gusrb3164.cpp) |  | Medium |  |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [C++](solutions/78/78-gusrb3164.cpp) |  | Medium |  |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Python](solutions/84/84-fivestar1103.py) |  | Hard |  |
+| 89 | [Gray Code](https://leetcode.com/problems/gray-code) | [Java](solutions/89/89-moran991231.java) |  | Medium |  |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [C++](solutions/92/92-gusrb3164.cpp) |  | Medium |  |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Python](solutions/103/103-yongjoonseo.py) | [md](solutions/103/103-yongjoonseo.md) | Medium |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](solutions/104/104-gusrb3164.cpp) |  | Easy |  |
