@@ -16,14 +16,14 @@
 
 
 ## Ranking
-**2021년 02월 21일 23시 17분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 21일 23시 21분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 30 |
 | 2 | hyun gyu | 29 |
-| 3 | YongjoonSeo | 11 |
+| 3 | YongjoonSeo | 14 |
 | 4 | fivestar1103 | 8 |
 | 5 | moran991231 | 6 |
 | 6 | Spoof-UoS | 3 |
@@ -36,7 +36,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 122 |
-| 2 | YongjoonSeo | 53 |
+| 2 | YongjoonSeo | 65 |
 | 3 | hyun gyu | 46 |
 | 4 | moran991231 | 11 |
 | 5 | Spoof-UoS | 9 |
@@ -50,7 +50,7 @@
 | # | User Name | Points |
 | :---: | :---: | :---: |
 | 1 | kir3i | 92 |
-| 2 | YongjoonSeo | 40 |
+| 2 | YongjoonSeo | 52 |
 | 3 | hyun gyu | 28 |
 | 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
@@ -90,6 +90,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [js](solutions/88/88-gusrb3164.js) |  | Easy |  |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [cpp](solutions/92/92-gusrb3164.cpp) |  | Medium |  |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [py](solutions/94/94-yongjoonseo.py) | [md](solutions/94/94-yongjoonseo.md) | Medium |  |
+| 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | [py](solutions/97/97-yongjoonseo.py) | [md](solutions/97/97-yongjoonseo.md) | Hard |  |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [py](solutions/102/102-yongjoonseo.py) | [md](solutions/102/102-yongjoonseo.md) | Medium |  |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [py](solutions/103/103-yongjoonseo.py) | [md](solutions/103/103-yongjoonseo.md) | Medium |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [cpp](solutions/104/104-gusrb3164.cpp) |  | Easy |  |
@@ -133,6 +134,7 @@
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [js](solutions/561/561-gusrb3164.js) |  | Easy |  |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [cpp](solutions/617/617-gusrb3164.cpp) |  | Easy |  |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [py](solutions/654/654-kir3i.py) | [md](solutions/654/654-kir3i.md) | Medium |  |
+| 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | [py](solutions/684/684-yongjoonseo.py) | [md](solutions/684/684-yongjoonseo.md) | Medium |  |
 | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) | [cpp](solutions/687/687-gusrb3164.cpp) |  | Medium |  |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [cpp](solutions/701/701-kir3i.cpp), [java](solutions/701/701-kir3i.java), [py](solutions/701/701-kir3i.py) | [md](solutions/701/701-kir3i.md) | Medium |  |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [cpp](solutions/739/739-gusrb3164.cpp) |  | Medium |  |
@@ -144,6 +146,7 @@
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [py](solutions/791/791-yongjoonseo.py) | [md](solutions/791/791-yongjoonseo.md) | Medium |  |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [cpp](solutions/797/797-kir3i.cpp), [py](solutions/797/797-kir3i.py) | [md](solutions/797/797-kir3i.md) | Medium |  |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [py](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
+| 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | [py](solutions/827/827-yongjoonseo.py) | [md](solutions/827/827-yongjoonseo.md) | Hard |  |
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [cpp](solutions/890/890-kir3i.cpp), [java](solutions/890/890-kir3i.java), [py](solutions/890/890-kir3i.py) | [md](solutions/890/890-kir3i.md) | Medium |  |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | [js](solutions/912/912-gusrb3164.js) |  | Medium |  |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [cpp](solutions/921/921-kir3i.cpp), [java](solutions/921/921-kir3i.java), [py](solutions/921/921-kir3i.py) | [md](solutions/921/921-kir3i.md) | Medium |  |
@@ -159,14 +162,17 @@
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [py](solutions/1091/1091-yongjoonseo.py) | [md](solutions/1091/1091-yongjoonseo.md) | Medium |  |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [py](solutions/1108/1108-kir3i.py) | [md](solutions/1108/1108-kir3i.md) | Easy |  |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [py](solutions/1161/1161-yongjoonseo.py) | [md](solutions/1161/1161-yongjoonseo.md) | Medium |  |
+| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible) | [py](solutions/1162/1162-yongjoonseo.py) | [md](solutions/1162/1162-yongjoonseo.md) | Medium |  |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [cpp](solutions/1261/1261-kir3i.cpp), [java](solutions/1261/1261-kir3i.java), [py](solutions/1261/1261-kir3i.py) | [md](solutions/1261/1261-kir3i.md) | Medium |  |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [py](solutions/1282/1282-kir3i.py) | [md](solutions/1282/1282-kir3i.md) | Medium |  |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | [py](solutions/1288/1288-yongjoonseo.py) | [md](solutions/1288/1288-yongjoonseo.md) | Medium |  |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [py](solutions/1302/1302-kir3i.py) | [md](solutions/1302/1302-kir3i.md) | Medium |  |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [cpp](solutions/1305/1305-kir3i.cpp), [py](solutions/1305/1305-kir3i.py) | [md](solutions/1305/1305-kir3i.md) | Medium |  |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [cpp](solutions/1310/1310-gusrb3164.cpp) |  | Medium |  |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [py](solutions/1315/1315-kir3i.py) | [md](solutions/1315/1315-kir3i.md) | Medium |  |
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) | [cpp](solutions/1325/1325-kir3i.cpp), [java](solutions/1325/1325-kir3i.java), [py](solutions/1325/1325-kir3i.py) | [md](solutions/1325/1325-kir3i.md) | Medium |  |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [py](solutions/1329/1329-kir3i.py) | [md](solutions/1329/1329-kir3i.md) | Medium |  |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | [py](solutions/1334/1334-yongjoonseo.py) | [md](solutions/1334/1334-yongjoonseo.md) | Medium |  |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [cpp](solutions/1342/1342-kir3i.cpp), [java](solutions/1342/1342-kir3i.java), [py](solutions/1342/1342-kir3i.py) | [md](solutions/1342/1342-kir3i.md) | Easy |  |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [cpp](solutions/1347/1347-kir3i.cpp), [java](solutions/1347/1347-kir3i.java), [py](solutions/1347/1347-kir3i.py) | [md](solutions/1347/1347-kir3i.md) | Medium |  |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [cpp](solutions/1365/1365-kir3i.cpp), [java](solutions/1365/1365-kir3i.java), [py](solutions/1365/1365-kir3i.py) | [md](solutions/1365/1365-kir3i.md) | Easy |  |
