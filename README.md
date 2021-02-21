@@ -16,13 +16,13 @@
 
 
 ## Ranking
-**2021년 02월 19일 17시 06분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 21일 01시 24분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
 | :---: | :---: | :---: |
-| 1 | kir3i | 27 |
-| 2 | hyun gyu | 26 |
+| 1 | hyun gyu | 29 |
+| 2 | kir3i | 27 |
 | 3 | YongjoonSeo | 11 |
 | 4 | fivestar1103 | 8 |
 | 5 | moran991231 | 6 |
@@ -37,7 +37,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 110 |
 | 2 | YongjoonSeo | 53 |
-| 3 | hyun gyu | 40 |
+| 3 | hyun gyu | 46 |
 | 4 | moran991231 | 11 |
 | 5 | Spoof-UoS | 9 |
 | 6 | fivestar1103 | 7 |
@@ -51,7 +51,7 @@
 | :---: | :---: | :---: |
 | 1 | kir3i | 80 |
 | 2 | YongjoonSeo | 40 |
-| 3 | hyun gyu | 24 |
+| 3 | hyun gyu | 28 |
 | 4 | moran991231 | 10 |
 | 5 | fivestar1103 | 7 |
 | 6 | sally0226 | 4 |
@@ -81,11 +81,13 @@
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [py](solutions/50/50.py) |  | Medium |  |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [py](solutions/51/51-fivestar1103.py) |  | Hard |  |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [py](solutions/52/52-fivestar1103.py) |  | Hard |  |
-| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [py](solutions/56/56-yongjoonseo.py) | [md](solutions/56/56-yongjoonseo.md) | Medium |  |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [js](solutions/56/56-gusrb3164.js), [py](solutions/56/56-yongjoonseo.py) | [md](solutions/56/56-yongjoonseo.md) | Medium |  |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | [c](solutions/60/60-fivestar1103.c) |  | Hard |  |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [js](solutions/75/75-gusrb3164.js) |  | Medium |  |
 | 77 | [Combinations](https://leetcode.com/problems/combinations) | [cpp](solutions/77/77-gusrb3164.cpp) |  | Medium |  |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [cpp](solutions/78/78-gusrb3164.cpp) |  | Medium |  |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [py](solutions/84/84-fivestar1103.py) |  | Hard |  |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [js](solutions/88/88-gusrb3164.js) |  | Easy |  |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [cpp](solutions/92/92-gusrb3164.cpp) |  | Medium |  |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [py](solutions/94/94-yongjoonseo.py) | [md](solutions/94/94-yongjoonseo.md) | Medium |  |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [py](solutions/102/102-yongjoonseo.py) | [md](solutions/102/102-yongjoonseo.md) | Medium |  |
@@ -99,7 +101,9 @@
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [py](solutions/130/130-yongjoonseo.py) | [md](solutions/130/130-yongjoonseo.md) | Medium |  |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [py](solutions/144/144-yongjoonseo.py) | [md](solutions/144/144-yongjoonseo.md) | Medium |  |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [py](solutions/145/145-yongjoonseo.py) | [md](solutions/145/145-yongjoonseo.md) | Medium |  |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [js](solutions/147/147-gusrb3164.js) |  | Medium |  |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [py](solutions/172/172.py) |  | Easy |  |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number) | [js](solutions/179/179-gusrb3164.js) |  | Medium |  |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [py](solutions/199/199-yongjoonseo.py) | [md](solutions/199/199-yongjoonseo.md) | Medium |  |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [cpp](solutions/200/200-gusrb3164.cpp), [py](solutions/200/200-yongjoonseo.py) | [md](solutions/200/200-yongjoonseo.md) | Medium |  |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [py](solutions/202/202.py) |  | Easy |  |
@@ -110,6 +114,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [py](solutions/217/217.py) |  | Easy |  |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [cpp](solutions/226/226-gusrb3164.cpp), [js](solutions/226/226-gusrb3164.js) |  | Easy |  |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [py](solutions/231/231.py) |  | Easy |  |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [js](solutions/242/242-gusrb3164.js) |  | Easy |  |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [cpp](solutions/297/297-gusrb3164.cpp) |  | Hard |  |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | [cpp](solutions/310/310-gusrb3164.cpp) |  | Medium |  |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [cpp](solutions/316/316-gusrb3164.cpp) |  | Medium |  |
@@ -139,11 +144,13 @@
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [py](solutions/791/791-yongjoonseo.py) | [md](solutions/791/791-yongjoonseo.md) | Medium |  |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [cpp](solutions/797/797-kir3i.cpp), [py](solutions/797/797-kir3i.py) | [md](solutions/797/797-kir3i.md) | Medium |  |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [py](solutions/807/807-kir3i.py) | [md](solutions/807/807-kir3i.md) | Medium |  |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | [js](solutions/912/912-gusrb3164.js) |  | Medium |  |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [cpp](solutions/921/921-kir3i.cpp), [java](solutions/921/921-kir3i.java), [py](solutions/921/921-kir3i.py) | [md](solutions/921/921-kir3i.md) | Medium |  |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [py](solutions/925/925-yongjoonseo.py) | [md](solutions/925/925-yongjoonseo.md) | Easy |  |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [cpp](solutions/938/938-gusrb3164.cpp) |  | Easy |  |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | [py](solutions/945/945-yongjoonseo.py) | [md](solutions/945/945-yongjoonseo.md) | Medium |  |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [cpp](solutions/950/950-kir3i.cpp), [java](solutions/950/950-kir3i.java), [py](solutions/950/950-kir3i.py) | [md](solutions/950/950-kir3i.md) | Medium |  |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [cpp](solutions/973/973-gusrb3164.cpp) |  | Medium |  |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations) | [py](solutions/990/990-yongjoonseo.py) | [md](solutions/990/990-yongjoonseo.md) | Medium |  |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [py](solutions/994/994-yongjoonseo.py) | [md](solutions/994/994-yongjoonseo.md) | Medium |  |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [cpp](solutions/1008/1008-kir3i.cpp), [py](solutions/1008/1008-kir3i.py) | [md](solutions/1008/1008-kir3i.md) | Medium |  |
