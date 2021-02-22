@@ -19,6 +19,11 @@ class point_calculator:
                 t = datetime.datetime.strptime(time[:-6], "%a %b %d %H:%M:%S %Y")
                 cur_time = str(t)
             else:
+                tokens = log.split()
+
+                if 2 < len(tokens) or (tokens[0] != "A" and tokens[0] != "D"):
+                    continue
+
                 stat, file = log.split()
                 if "solutions/" not in file:
                     continue
