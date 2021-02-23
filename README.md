@@ -16,7 +16,7 @@
 
 
 ## Ranking
-**2021년 02월 22일 20시 19분**에 마지막으로 업데이트된 순위입니다.
+**2021년 02월 23일 23시 27분**에 마지막으로 업데이트된 순위입니다.
 
 ### (Event 1) 가장 꾸준히 기여한 사람
 | # | User Name | Points |
@@ -30,7 +30,7 @@
 | 7 | Moonki Choi | 2 |
 | 8 | sally0226 | 2 |
 | 9 | mulmuri | 2 |
-| 10 | zeze1004 | 1 |
+| 10 | zeze1004 | 2 |
 
 ### (Event 2) 모든 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
@@ -40,11 +40,11 @@
 | 3 | hyun gyu | 46 |
 | 4 | moran991231 | 20 |
 | 5 | Spoof-UoS | 9 |
-| 6 | fivestar1103 | 7 |
-| 7 | Moonki Choi | 4 |
-| 8 | sally0226 | 4 |
-| 9 | mulmuri | 3 |
-| 10 | zeze1004 | 3 |
+| 6 | zeze1004 | 9 |
+| 7 | fivestar1103 | 7 |
+| 8 | Moonki Choi | 4 |
+| 9 | sally0226 | 4 |
+| 10 | mulmuri | 3 |
 
 ### (Event 3) Medium, Hard 난이도에 가장 많이 기여한 사람
 | # | User Name | Points |
@@ -106,6 +106,7 @@
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [cpp](solutions/108/108-gusrb3164.cpp) |  | Easy |  |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [cpp](solutions/110/110-gusrb3164.cpp) |  | Easy |  |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [py](solutions/111/111-yongjoonseo.py) | [md](solutions/111/111-yongjoonseo.md) | Easy |  |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [c](solutions/125/125-zeze1004.c), [py](solutions/125/125-zeze1004(1).py), [py](solutions/125/125-zeze1004(2).py) | [md](solutions/125/125-zeze1004.md) | Easy |  |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [py](solutions/130/130-yongjoonseo.py) | [md](solutions/130/130-yongjoonseo.md) | Medium |  |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [py](solutions/144/144-yongjoonseo.py) | [md](solutions/144/144-yongjoonseo.md) | Medium |  |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [py](solutions/145/145-yongjoonseo.py) | [md](solutions/145/145-yongjoonseo.md) | Medium |  |
@@ -129,6 +130,7 @@
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [py](solutions/326/326-yongjoonseo.py), [py](solutions/326/326.py) | [md](solutions/326/326-yongjoonseo.md) | Easy |  |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) | [cpp](solutions/332/332-gusrb3164.cpp) |  | Medium |  |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | [py](solutions/342/342.py) |  | Easy |  |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [cpp](solutions/344/344-zeze1004.cpp), [py](solutions/344/344-zeze1004(1).py), [py](solutions/344/344-zeze1004(2).py) | [md](solutions/344/344-zeze1004.md) | Easy |  |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [cpp](solutions/412/412-zeze1004.cpp), [java](solutions/412/412-iknoom.java), [py](solutions/412/412-zeze1004.py) | [md](solutions/412/412-zeze1004.md) | Easy |  |
 | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [py](solutions/429/429-yongjoonseo.py) | [md](solutions/429/429-yongjoonseo.md) | Medium |  |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | [py](solutions/454/454-mulmuri.py) | [md](solutions/454/454-mulmuri.md) | Medium |  |
